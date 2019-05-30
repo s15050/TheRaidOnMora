@@ -6,5 +6,8 @@ Due to the weirdness with GitHub (or maybe just my inability to use it propery),
 * Scripts
 * Ability Icons
 * Scenes
+* Editor
+* Fonts
+* Prefabs
 * smudge
 * placeholder
